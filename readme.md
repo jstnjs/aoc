@@ -1,0 +1,1 @@
+npx ts-node 2023/day1/part1.ts
